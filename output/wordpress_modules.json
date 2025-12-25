@@ -1,0 +1,262 @@
+[
+  {
+    "module": "Documentation",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "WordPress overview",
+    "description": "Learn about WordPress and its community.",
+    "submodules": {
+      "Where to start?": "Are you new to WordPress? Learn how to get started now.",
+      "FAQs": "A list of common WordPress questions from the community.",
+      "About WordPress": "Learn more about the WordPress project and its history."
+    }
+  },
+  {
+    "module": "Technical guides",
+    "description": "Learn how to install WordPress and keep it secure and healthy.",
+    "submodules": {
+      "Installation": "Need a hand installing WordPress? This section will help you.",
+      "Maintenance": "Keep your site updated and ready with the articles in this section.",
+      "Security": "Everything you need to know to protect your site, from password best practices to privacy."
+    }
+  },
+  {
+    "module": "Support guides",
+    "description": "Get to know how to publish with WordPress.",
+    "submodules": {
+      "Dashboard": "Get to know the control center of your site.",
+      "Publishing": "Learn how to create and publish your content.",
+      "Media": "Learn how to manage your media files."
+    }
+  },
+  {
+    "module": "Customization",
+    "description": "Get the look and feel you want on your site.",
+    "submodules": {
+      "Appearance": "Learn how to give the look and feel you want to your site.",
+      "Default themes": "Get information on the default themes that ship with WordPress.",
+      "Media Blocks": "Learn about the Audio, Cover, File, Gallery, Image, Media & Text, and the Video blocks.",
+      "Text Blocks": "Learn about the basic text blocks that make up the main content of your website.",
+      "Design Blocks": "Learn about the various layout blocks, including Group, Row, Stack, Buttons, Columns, and more.",
+      "Embed Blocks": "Learn about all the included embed blocks, and how to configure them.",
+      "Widget Blocks": "Learn about Archives, Calendar, and the other blocks that are available to use as widgets.",
+      "Theme Blocks": "Learn about how to apply theme-specific blocks for your block themes and custom templates."
+    }
+  },
+  {
+    "module": "Get more help",
+    "description": "Support forums Ask questions in the support forums. Developers Check out the developer documentation. Content suggestions Report an error or change in the documentation issue tracker. Get involved Learn about the Documentation Team and how to...",
+    "submodules": {}
+  },
+  {
+    "module": "Enterprise",
+    "description": "The WordPress platform has grown to become the dominant market leader for content management. Discover how today's biggest brands use WordPress, and how WordPress can work for your enterprise.",
+    "submodules": {}
+  },
+  {
+    "module": "Enterprise use cases",
+    "description": "Whether as a primary or secondary content management system (CMS), you'll find WordPress being used by enterprises at scale wherever there's a requirement for flexible, cost-effective, and secure creation and distribution of content. Explore some of...",
+    "submodules": {
+      "Media and publishing": "WordPress powers the sites people visit multiple times every day for news, information, and entertainment.",
+      "E-commerce": "Organizations around the world choose WordPress as their e-commerce solution of choice.",
+      "Content marketing": "WordPress will help you get your brand's story in front of your potential customers quickly and easily.",
+      "Higher education": "Educational institutions use WordPress to power everything, from a departmental blog to an entire university system."
+    }
+  },
+  {
+    "module": "Extensibility",
+    "description": "Enterprise-level extensions for WordPress span a broad range of functionality, from enhanced search and advanced on-page SEO, to AI-driven content augmentation and developer power tools.",
+    "submodules": {}
+  },
+  {
+    "module": "Security",
+    "description": "WordPress has strict security standards that make it a popular CMS for enterprise companies around the world. While its popularity might make it a target, it has proven itself as a secure platform.",
+    "submodules": {}
+  },
+  {
+    "module": "Open source",
+    "description": "WordPress is open source software. This means the source code is made freely available and may be distributed and modified subject to the GPL license.",
+    "submodules": {}
+  },
+  {
+    "module": "Get WordPress",
+    "description": "",
+    "submodules": {
+      "Case studies": "Abril (PDF) KFF (PDF) NewsCorp Australia (PDF)",
+      "White paper references": "IDC Report (PDF) WP as a Content Hub (PDF) Personalization (PDF)",
+      "Tutorials": "Drive Digital Commerce Gutenberg for Enterprise Lead a Successful Digital Transformation",
+      "Additional case studies": "Unified WordPress with PMC (PDF) Massive Multisite with SAP News (PDF) .NET to WordPress with ArtsHub (PDF) Drupal to WordPress with Capgemini (PDF) Academic Partnerships (PDF) Revolutionizing Performance and Editorial (PDF) Moving a Pharmacy Leader..."
+    }
+  },
+  {
+    "module": "Media",
+    "description": "Audio Shortcode Edit Media Image size and quality Inserting images into posts and pages (Block Editor) Inserting images into posts and pages (Classic Editor) The WordPress Gallery (Block Editor) The WordPress Gallery (Classic Editor) Use image and...",
+    "submodules": {}
+  },
+  {
+    "module": "Insert/edit link",
+    "description": "Enter the destination URL Or link to existing content",
+    "submodules": {}
+  },
+  {
+    "module": "Showcase",
+    "description": "The best websites, built with WordPress.",
+    "submodules": {}
+  },
+  {
+    "module": "Popular tags",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Categories",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Flavors",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Featured sites",
+    "description": "The Atavist Magazine Publication NASA Community The Line Hotels Business Women in Soccer Community AD Dal Pozzo Store PichiAvo Creative Noma Business Landia Creative Caeserstone Store The Noguchi Museum Creative Ubisoft Québec Business Ray Charles...",
+    "submodules": {
+      "The Atavist Magazine": "",
+      "NASA": "",
+      "The Line Hotels": "",
+      "Women in Soccer": "",
+      "AD Dal Pozzo": "",
+      "PichiAvo": "",
+      "Noma": "",
+      "Landia": "",
+      "Caeserstone": "",
+      "The Noguchi Museum": "",
+      "Ubisoft Québec": "",
+      "Ray Charles Video Museum": "",
+      "Art Gallery of Ballarat": "",
+      "Steffie de Leeuw": "",
+      "Designmuseum Danmark": "",
+      "Te Tuhi": "",
+      "Rolling Stone": "",
+      "Fabbrica": ""
+    }
+  },
+  {
+    "module": "View all sites",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Feeling inspired?",
+    "description": "Start building a website you love on the open source platform that powers the web.",
+    "submodules": {}
+  },
+  {
+    "module": "Want to be featured?",
+    "description": "Join other beautifully designed sites in the WordPress Showcase by filling out this form.",
+    "submodules": {}
+  },
+  {
+    "module": "Education",
+    "description": "Empowering the next generation of open web creators",
+    "submodules": {}
+  },
+  {
+    "module": "About",
+    "description": "Creating clear, accessible pathways into the open-source ecosystem. We help learners turn their knowledge into practice, discover their strengths, and understand how their contributions can make a real impact. Through hands-on programs and...",
+    "submodules": {}
+  },
+  {
+    "module": "Our Mission",
+    "description": "We aim to bring WordPress education directly to students on campus, empowering them to discover the platform's potential for their studies and future careers. We strive to bridge the gap between the classroom and the global WordPress community,...",
+    "submodules": {}
+  },
+  {
+    "module": "The Initiatives",
+    "description": "WordPress Education offers three core initiatives, each one provides practical ways for learners to develop skills, connect with the community, and contribute to open-source projects. WordPress Campus Connect The initiative brings WordPress to...",
+    "submodules": {}
+  },
+  {
+    "module": "See what’s happening across initiatives",
+    "description": "Call for Volunteers: Support Our Education Programs December 18, 2025 WordPress Campus Connect is growing, and we need community support to advance key initiatives. We are seeking assistance in the […] WordPress Credits Mentor Huddles – Notes and...",
+    "submodules": {}
+  },
+  {
+    "module": "Join the Movement!",
+    "description": "WordPress Education is powered by people who believe in open learning and collaboration. If you’d like to be part of this growing global community, join the conversation in the #campus-connect and #wpcredits channels in the Make WordPress Slack to...",
+    "submodules": {}
+  },
+  {
+    "module": "About WordPress",
+    "description": "Become a WordPress contributor Learn about WordPress origins and version history Supported Versions What’s the difference between WordPress.org and WordPress.com? WordPress Versions",
+    "submodules": {}
+  },
+  {
+    "module": "Media blocks",
+    "description": "Audio block Cover block File block Gallery block Image block Media & Text block Video block",
+    "submodules": {}
+  },
+  {
+    "module": "Text blocks",
+    "description": "Classic block Code block Details block Footnotes block Heading block List block Math block Paragraph block Preformatted block Pullquote block Quote block Table block Terms Query block Time to Read block Verse block",
+    "submodules": {}
+  },
+  {
+    "module": "Plugins",
+    "description": "Extend your WordPress experience! Browse over 60,000 free plugins. (1,155 total ratings ) The best anti-spam protection to block spam comments and spam in a contact form. The most trusted antispam solution for WordPress and WooCommerce. (2,357 total...",
+    "submodules": {}
+  },
+  {
+    "module": "Design blocks",
+    "description": "(Deprecated)Button block Accordion block Buttons block Columns block Grid block Group block More block Page Break block Page Jumps Row block Separator block Spacer block Stack block Synced Patterns (Reusable blocks)",
+    "submodules": {}
+  },
+  {
+    "module": "Dashboard",
+    "description": "Administration Screens Appearance Menus Screen Appearance Theme File Editor Screen Appearance Themes Screen Appearance Widgets Screen (Classic Editor) Block-based Widgets Editor Comments screen Customizer Dashboard screen Dashboard Updates screen...",
+    "submodules": {}
+  },
+  {
+    "module": "Publishing",
+    "description": "Comment moderation Comments in WordPress Create a search page Create a static front page Create pages Customize date and time format Customize permalinks How WordPress processes Post Content Pages Add New screen Post Status Comment moderation...",
+    "submodules": {}
+  },
+  {
+    "module": "Appearance",
+    "description": "Additional guide to using the Site Editor Assign custom fields Block themes Comparing Patterns, Template Parts, and Synced Patterns (Reusable Blocks) Create a Favicon Introduction to Plugins Layout Settings overview Manage Plugins Position Settings...",
+    "submodules": {}
+  },
+  {
+    "module": "Block Editor",
+    "description": "Adding a new block Block Directory Block Error: Unexpected or Invalid Content Block Pattern Directory Block Patterns Blocks list Border & Shadow Settings overview Colors Settings overview Dimension Settings overview Embed block Adding a new block...",
+    "submodules": {}
+  },
+  {
+    "module": "Default themes",
+    "description": "Twenty Twenty-Five Twenty Twenty-Four Twenty Twenty-Three Twenty Twenty-Two Twenty Twenty-One Twenty Twenty Twenty Nineteen Twenty Seventeen Twenty Sixteen Twenty Fifteen Twenty Twenty-Five Twenty Twenty-Four Twenty Twenty-Three Twenty Twenty-Two...",
+    "submodules": {}
+  },
+  {
+    "module": "Embed blocks",
+    "description": "Amazon Kindle Embed Animoto Embed Cloudup Embed Crowdsignal embed Dailymotion embed Embeds Facebook embed Flickr embed Imgur embed Instagram embed Amazon Kindle Embed Animoto Embed Cloudup Embed Crowdsignal embed Dailymotion embed Embeds Facebook...",
+    "submodules": {}
+  },
+  {
+    "module": "Site Editor",
+    "description": "Command Palette Site Editor navigation Site Editor Pages Site Editor Patterns Command Palette Site Editor navigation Site Editor Pages Site Editor Patterns Show all articles in Site Editor",
+    "submodules": {}
+  },
+  {
+    "module": "Theme blocks",
+    "description": "Archive Title block Avatar block Categories block Comment Author Name block Comment Content block Comment Date block Comment Edit Link block Comment Reply Link block Comment Template block Comments block Archive Title block Avatar block Categories...",
+    "submodules": {}
+  },
+  {
+    "module": "Widget blocks",
+    "description": "Archives block Calendar block Categories List block Custom HTML Latest Comments block Latest Posts block Page List block RSS block Search block Shortcode block Archives block Calendar block Categories List block Custom HTML Latest Comments block...",
+    "submodules": {}
+  }
+]

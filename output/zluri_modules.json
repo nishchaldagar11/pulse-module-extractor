@@ -1,0 +1,303 @@
+[
+  {
+    "module": "Help Center",
+    "description": "Explore our Help Center for quick answers, detailed guides, and troubleshooting tips—all designed to help you get the most value out of Zluri and streamline your Identity Governance journey.",
+    "submodules": {
+      "Getting Started": "New to Zluri? Start here to set up your account and configure your organization’s settings",
+      "Application Management": "Discover, monitor, and manage all SaaS applications across your organization",
+      "User Management": "View and manage the users in your organization",
+      "Cost Management": "Track SaaS spending, manage contract renewals, and right-size licenses based on usage",
+      "Access Provisioning": "Automate employee onboarding and offboarding using no-code workflows",
+      "Access Requests": "Automate app access for employees with self-service requests and approval workflows",
+      "Access Reviews": "Learn how to stay audit-ready through fully automated access reviews",
+      "Integrations": "Step-by-step instructions to connect your existing apps and systems with Zluri",
+      "Workflows & Automations": "Learn how to set up and run no-code workflow automations to streamline IT operations",
+      "Settings": "Manage your account, organization, billing, and configure Zluri according to your preferences"
+    }
+  },
+  {
+    "module": "Featured Articles",
+    "description": "",
+    "submodules": {
+      "Popular Resources": "Getting started with Zluri is quick and easy. Here's how Integrate Google Workspace with Zluri Integrate Azure AD with Zluri",
+      "Recently Added": "Automatically assign licenses, and add new employees to groups Integrate custom API endpoints with Zluri with our free, easy-to-use SDK Integrate Slack with Zluri",
+      "Still have questions?": "Our team is ready to assist you with any technical issues or questions"
+    }
+  },
+  {
+    "module": "User Overview",
+    "description": "Clicking on a user will load their user page, which will display the following details. Actively used apps: Total number of apps used in the current month & change in the number of apps used compared to the previous month as identified by the login...",
+    "submodules": {}
+  },
+  {
+    "module": "User Applications",
+    "description": "The Applications tab lists the applications used by the user, usage, spend[YTD], cost[YTD], license, user application status, risk level, the last used date as sourced from the SSO integration, the specified SSO source & status of the application....",
+    "submodules": {}
+  },
+  {
+    "module": "Add a New User",
+    "description": "Go to Zluri's home page >> Click on USERS. Click on “+Add Button” to add a new user. On the Add new user page. Enter the below mandate details. Add Username User's email address User's Designation User's status (Active/Inactive/Suspended) Add user...",
+    "submodules": {}
+  },
+  {
+    "module": "Editing user attributes",
+    "description": "To edit the user attributes, you can do this on the user landing page or the individual employee page. You can select users on the user landing page by ticking the checkboxes and Change the status of the user, Archive/Unarchive the user, Change...",
+    "submodules": {}
+  },
+  {
+    "module": "Bulk update data",
+    "description": "Zluri gives you the option to bulk update the metadata of each entity by directly uploading a CSV file. This article explains the step-by-step process of updating data in bulk. To update data in bulk, click on the above menu on the right side of the...",
+    "submodules": {}
+  },
+  {
+    "module": "Overview",
+    "description": "You can use the Overview section to create a new workflow or use an existing playbook. The following categories are available in the Onboarding section of the Workflow module to provide information on current workflows and existing playbooks, user...",
+    "submodules": {}
+  },
+  {
+    "module": "Navigating the Integrations module",
+    "description": "Use the Integrations module to discover and manage integrations. Key features include: Sorting options: Sort integrations by name, status, or activity. Search bar: Search for apps by name.",
+    "submodules": {
+      "Integration cards": "App information : Integration cards display essential information such as integration name, description, category, and number of users. If the integration is not directly connected, Zluri pulls user data from the connected SSOs. Connection options :...",
+      "Subsections": "Recommended: View frequently used apps within your organization. Zluri uses data from the connected SSOs to recommend integrations that can improve efficiency. Connected: Check the list of apps you’ve already integrated with Zluri for a quick..."
+    }
+  },
+  {
+    "module": "Connecting specific integrations",
+    "description": "Check out the articles in the Integrations section in the left sidebar for detailed steps on connecting specific integrations, troubleshooting issues, and managing integration workflows. Updated 4 months ago",
+    "submodules": {}
+  },
+  {
+    "module": "Capabilities",
+    "description": "We support the following data points: Transaction information : Transaction status, transaction date, transaction description, transaction amount, and transaction currency User Information : Name, email, date of joining, role/designation, reporting...",
+    "submodules": {}
+  },
+  {
+    "module": "Prerequisites",
+    "description": "An initial engineering effort to connect to Zluri’s SDK.",
+    "submodules": {}
+  },
+  {
+    "module": "Cost",
+    "description": "There is no additional cost for using Zluri’s SDK. However, there is an API rate limit of 400 requests/min. If bypassed, the API will be unavailable for one minute.",
+    "submodules": {}
+  },
+  {
+    "module": "Error handling and logging",
+    "description": "The SDK includes comprehensive error-handling mechanisms for managing and reporting errors during data transmission. It also supports monitoring and logging functionality to track sync information and failures.",
+    "submodules": {}
+  },
+  {
+    "module": "How to connect",
+    "description": "See How to Use Zluri’s Integration SDK to get started.",
+    "submodules": {}
+  },
+  {
+    "module": "Support",
+    "description": "Got questions? Feel free to submit a ticket or contact us directly at [email protected] . Updated 4 months ago",
+    "submodules": {}
+  },
+  {
+    "module": "🤝 Zluri + Slack",
+    "description": "Zluri lets you discover which users have Slack accounts, how frequently they use them, and optimize spendings based on this data. You can also create and automate onboarding and offboarding workflows for team members, and automatically assign users...",
+    "submodules": {}
+  },
+  {
+    "module": "🖇️Integration",
+    "description": "Connecting Slack to Zluri is quick and painless. Check out our step-by-step instructions .",
+    "submodules": {}
+  },
+  {
+    "module": "🐞Troubleshooting",
+    "description": "Problems connecting? Find solutions to most common integration issues in our troubleshooting document . Got questions? Feel free to submit a ticket or contact us directly at [email protected] . Updated 4 months ago",
+    "submodules": {}
+  },
+  {
+    "module": "1. Overview",
+    "description": "Access reviews are a critical component of an organization’s identity governance and compliance efforts. These reviews ensure that users retain only the necessary access to applications and systems, in accordance with the principle of least...",
+    "submodules": {}
+  },
+  {
+    "module": "2. Roles",
+    "description": "The Access Reviews module in Zluri relies on distinct roles to manage responsibilities throughout the certification lifecycle. These roles are involved at different stages—including certification creation, performing access reviews, managing...",
+    "submodules": {
+      "Primary Reviewer": "The Primary Reviewer is the first-level reviewer assigned to a record. This can be configured as either: A specific named user , or A role-based assignment (e.g., App Owner, Reporting Manager) If the role is mapped to a valid user for a given...",
+      "Fallback Reviewer": "The Fallback Reviewer is a named user assigned as a backup reviewer. This user is automatically assigned to a record when the configured primary reviewer is invalid or not found. This could happen if: The role-based Primary Reviewer (e.g., App...",
+      "Certification Owner": "The Certification Owner oversees the entire certification lifecycle, ensuring reviews are completed within timelines, validating review outcomes, and triggering remediation. This role must have one of the following permissions in Zluri: Owner Admin...",
+      "Current Reviewer (System-Determined)": "The Current Reviewer is assigned by Zluri based on the primary and fallback reviewer configurations. Only the Current Reviewer can take review actions (Approve, Modify, Revoke). Zluri automatically assigns the Current Reviewer from: Primary Reviewer...",
+      "How Reviewer Assignment Works": "Primary Reviewer Check : Zluri first looks for a valid Primary Reviewer configured for the record. Fallback Reviewer Assignment : If no valid Primary Reviewer is found (for example, the role is unassigned or inactive), the record is assigned to the..."
+    }
+  },
+  {
+    "module": "3. Prerequisites",
+    "description": "Before initiating an access certification in Zluri, the following configurations and dependencies must be in place to ensure smooth setup and execution. Role Mapping (App Owner, Reporting Manager, etc.) Ensure that key roles are already assigned...",
+    "submodules": {}
+  },
+  {
+    "module": "4. Playbook Setup",
+    "description": "Zluri allows admins to configure playbooks that automate or facilitate remediation actions during an access review. Playbooks can be tied to either applications or groups depending on the entity under review. In addition, admins can create global...",
+    "submodules": {
+      "Application-Level Playbooks": "Application-level playbooks automate or standardize actions when reviewers revoke or modify a user’s access to an application. Created in the App Playbooks section of each integrated app. Support automated actions (e.g., Disable Account , Remove...",
+      "Group-Based Playbooks": "Group-based playbooks operate like application-level playbooks but target group memberships instead of application access. These playbooks are always created under the source application where the group resides (e.g., Okta, Google Workspace, Azure...",
+      "How to set up app level or a group level playbook": "Accessing Deprovisioning Setup Go to Applications in the Admin View. Select the application (e.g., Slack). Click Automation in the left panel. Open the Deprovisioning tab under App Playbooks . Creating a Deprovisioning Playbook Click + Add in the...",
+      "Handling Missing Permissions": "If Zluri lacks permissions to run an automated action: A warning appears under the action. Admins can: Click + Add Permission to connect required scopes. Ignore the warning (if action won’t be executed). Click Convert to Manual Task to convert it...",
+      "Finalizing and Publishing": "Add additional actions as needed. Click Publish App Playbook to activate the playbook. The playbook status changes from Setup Required to Published . Add additional actions as needed. Click Publish App Playbook to activate the playbook. The playbook...",
+      "Adding Manual Tasks via “Convert to Manual Task”": "When Zluri doesn’t have the required permissions to execute an automated remediation action, the platform allows admins to convert the action into a manual task directly within the playbook. This ensures continuity in remediation workflows even when...",
+      "When This Option Appears": "While configuring an automated action in a playbook (e.g., “Add User to SSO Groups” or “Remove User from All Groups”). If Zluri lacks required scopes or integration permissions, the action status displays a warning. A Convert to Manual Task link...",
+      "Manual Task Setup Flow": "Click Convert to Manual Task . Select the integration tool or task management system for assignment (e.g., Jira). Choose a template (or select “Custom”). Fill in: Project Issue Type Summary Description Assignee (e.g., Department Head) Due Date (in...",
+      "Global Playbooks": "Global playbooks are reusable workflows that are not tied to a specific app or group. They are created under Access Reviews → Playbooks and can be applied across certifications. Common use cases include manual or task-based workflows (e.g., notify...",
+      "When to Use a Global Playbook": "Global Playbooks are ideal when: A remediation action needs to apply across multiple applications. Manual or task-based workflows (e.g., Jira tickets, notifications) are required. Standardized processes (e.g., “Notify Security,” “Raise ticket to...",
+      "How to Create a Global Playbook": "Go to Access Reviews → Playbooks in the Admin View. Click + New Playbook . Enter a name for the playbook. Click Add an Action and choose from: Zluri platform actions Manual task (e.g., via Jira, ServiceNow, email) Trigger another playbook Configure...",
+      "Where Global Playbooks Are Used": "During Certification Setup , under “Configure Remediation Actions” As default remediations when creating a new certification As fallback actions when app-specific playbooks are missing or unavailable Admins can select these playbooks when defining..."
+    }
+  },
+  {
+    "module": "5. Creating a Certification",
+    "description": "Zluri enables administrators to configure and launch access certification campaigns from the Access Reviews module in the Admin View. Each certification can include one or more applications or groups , along with their reviewers, user scope, column...",
+    "submodules": {
+      "Step 1: Access the Certification Setup": "Navigate to Access Reviews in the left sidebar. Click Create New Certification in the top-right corner. A three-step configuration wizard opens: Certification Details Set Up Certification Complete Setup Certification Details Set Up Certification...",
+      "Step 2: Certification Details": "Enter the Certification Name and assign a Certification Owner . Owners must have Owner/Admin/IT Admin privileges. (Optional) Add a Certification Description — rich text and links are supported. Example: Link to an internal knowledge base article...",
+      "Step 3: Set Up Certification": "",
+      "a) Applications": "Select Application – Search and choose the application(s) to be reviewed. Assign Reviewers – Define primary and fallback reviewers. Multi-level review chains can be added if the process requires multiple stages of validation. Select Users – Filter...",
+      "b) Groups": "Select Group – Search and choose the group(s) to be reviewed. The UI shows the group name, number of members, and group source (e.g., Okta, Azure AD). Assign Reviewers – Add reviewers for each group. Multi-level review chains are supported. (App...",
+      "Step 4: Complete Setup": "Choose whether the certification should: Start Now – Launch immediately. The certification appears under Ongoing and reviewers are notified to begin. Start Later – Schedule for a future date. The certification appears under Upcoming and remains...",
+      "Save As Draft": "Creating and configuring a certification is often a multi-step process. Admins may need to pause setup at various points—for example: A remediation playbook needs to be created or updated Discovery data must be verified or refined Configuration...",
+      "Post-Launch Behavior": "Once the certification is created, it will appear in either the Ongoing or Upcoming tab, depending on the Start Date : Start Now : The certification appears immediately in the Ongoing Certifications tab. Start Later : The certification appears in..."
+    }
+  },
+  {
+    "module": "Account",
+    "description": "Use this section to change your name, email address, phone number, and profile picture. You can also enable two-factor authentication or reset your password.",
+    "submodules": {}
+  },
+  {
+    "module": "Your Organization",
+    "description": "Modify details such as Payment owner and IT owner. To update company name, financial year beginning month, and/or currency, please reach out to our support team .",
+    "submodules": {}
+  },
+  {
+    "module": "Directory Management",
+    "description": "Configure the primary sources from which Zluri can fetch data for different directory information along with any additional settings required. You can also select the primary source for various data points in the application. If Zluri fetches the...",
+    "submodules": {}
+  },
+  {
+    "module": "App Catalog",
+    "description": "The app catalog lets employees discover and request licenses for all SaaS applications used in your organization. This section lets you configure every aspect of the app catalog, including Authorization Levels and Application Metadata. You can also...",
+    "submodules": {}
+  },
+  {
+    "module": "Administration",
+    "description": "This section lists all the members that currently have access to your workspace, their email-ids, permission levels, and their last login details. You can also reset passwords or add/remove administrators. See our administration document to learn...",
+    "submodules": {}
+  },
+  {
+    "module": "SSO",
+    "description": "Configure the SAML/SSO methods for users in your organization. Click here to learn more about setting up SSO with Zluri.",
+    "submodules": {}
+  },
+  {
+    "module": "Custom Fields",
+    "description": "You can add custom fields to Applications, Users, Departments & Transactions to add any additional information you would like to store regarding these entities. The added custom field will appear in the respective entity's overview screen.",
+    "submodules": {}
+  },
+  {
+    "module": "Scheduled Exports",
+    "description": "This tab lists all the scheduled data exports . You can also filter report types using the Apply Filter feature on the top-right.",
+    "submodules": {}
+  },
+  {
+    "module": "Custom Apps",
+    "description": "Custom Apps are applications that you've added yourself or that we've identified via integrations, but aren't listed in our database.",
+    "submodules": {}
+  },
+  {
+    "module": "Billing",
+    "description": "Upgrade your plan by contacting us through chat, mail, or phone.",
+    "submodules": {}
+  },
+  {
+    "module": "Notifications",
+    "description": "Change notification and email settings.",
+    "submodules": {}
+  },
+  {
+    "module": "Workflow Settings",
+    "description": "Customize workflows globally for your organization. Click here to learn more about workflows. Updated 4 months ago",
+    "submodules": {}
+  },
+  {
+    "module": "Creating and running an onboarding workflow",
+    "description": "Click on New Workflow . Select the users to onboard. Click ➕ Add to the right of the app(s) that you wish to create an account for. Click on New Workflow . Select the users to onboard. Click ➕ Add to the right of the app(s) that you wish to create...",
+    "submodules": {
+      "Okta example": "Apps usually have multiple options that you can use to set up an account. In Okta’s example below, you can pre-select a user type, add a phone number, enroll the user to Google’s 2-factor auth, and a lot more. Explore the available actions in the...",
+      "Recommended apps and actions": "While creating an onboarding workflow, Zluri recommends a set of applications that your organization typically uses to onboard users. To access this, click the ➕ icon below the Selected users section. Select from the recommended apps. Optionally,..."
+    }
+  },
+  {
+    "module": "Managing onboarding workflows",
+    "description": "",
+    "submodules": {
+      "Overview": "The Overview section lets you: Create new workflows and playbooks Run existing playbooks View in progress workflows View, run, and edit most used and recently edited playbooks Create new workflows and playbooks Run existing playbooks View in...",
+      "Drafts": "The Drafts section contains unsaved workflows. You can search for drafts, then run, edit, or delete them.",
+      "Playbooks": "The Playbooks section contains saved workflows. Here, you can search, run, create, edit, or delete playbooks.",
+      "Run Logs": "The Run Logs section is a list of workflows that you’ve run. This includes completed, pending, and failed runs. You can search for workflows using the search bar, view logs, archive runs, or save them as playbooks. You can also filter workflows by...",
+      "Scheduled Runs": "The Scheduled Runs section contains workflows scheduled for later. Updated 4 months ago"
+    }
+  },
+  {
+    "module": "🤝 Zluri + Google Workspace",
+    "description": "Zluri lets you discover which users have Google Workspace accounts, how frequently they use them, third-party apps connected to accounts, and detailed security analysis of every application. It also helps optimize spendings based on this data. You...",
+    "submodules": {}
+  },
+  {
+    "module": "🖇️ Integration",
+    "description": "There are two main ways to connect Google Workspace to Zluri:",
+    "submodules": {
+      "Option 1:Using a Super Admin Workspace account": "This is a quick, hassle-free way to connect. Instantly access all Zluri features with minimal manual configuration. See How to Connect Google Workspace to Zluri with Super Admin Credentials .",
+      "Option 2:By creating a Dedicated Custom Admin Account": "Use this method to delegate the integration to a Workspace account without Super admin credentials. This method requires more manual configuration, but provides greater control over the Zluri features you wish to use. It’s also a more secure way to..."
+    }
+  },
+  {
+    "module": "Sign Up",
+    "description": "Zluri access is invite-only. Sign up can be completed with an invite code.",
+    "submodules": {}
+  },
+  {
+    "module": "1. Sign Up Without an Invite Code",
+    "description": "Go to: https://signup.zluri.com Enter the following details: First Name Last Name Company Work Email Phone Number Click Request Invite . Enter the following details: First Name Last Name Company Work Email Phone Number Click Request Invite . If the...",
+    "submodules": {}
+  },
+  {
+    "module": "2. Sign Up With an Invite Code",
+    "description": "Go to: https://signup.zluri.com Enter the work email and invite code . Click Continue to Signup . On the Sign Up page, choose one of the following: Signup with Google Workspace , or Signup with Email → Provide Name , Work Email , and Password...",
+    "submodules": {}
+  },
+  {
+    "module": "Steps to follow after Login",
+    "description": "",
+    "submodules": {
+      "Step 1: Add Organization Details": "After logging in for the first time, complete the initial setup by adding: Organization name Default currency Start month of the financial year",
+      "Step 2: Add Your Team to Zluri": "Connect with one of the available IAM/SSO services to add your team.",
+      "Step 3: Add Transactions": "To keep track of your SaaS spend, connect your finance applications."
+    }
+  },
+  {
+    "module": "2. Connect Core Integrations",
+    "description": "Zluri recommends setting up the following integrations first to populate your system with accurate data.",
+    "submodules": {
+      "a. SSO Integration": "Connect a supported identity provider (e.g., Google Workspace, Azure AD, Okta, OneLogin, JumpCloud) or import a user list via CSV. Zluri uses this integration to collect: User accounts and departments Domain information Login and logout events...",
+      "b. Accounting and Finance Tools": "Integrate finance tools like QuickBooks, FreshBooks, or Brex. You can also upload financial data via CSV. This enables Zluri to track: Application-related expenses Subscription and vendor transactions",
+      "c. HRMS Integration": "Connect your HR system (e.g., BambooHR, Personio, Keka) to allow Zluri to import: Employee profiles and job titles Department mappings Reporting structure Joining dates"
+    }
+  },
+  {
+    "module": "3. Add Additional Integrations",
+    "description": "Once the core integrations are complete, visit the Integration Catalog to explore and add other applications relevant to your organization. Zluri provides staff picks and recommended apps to help you get started.",
+    "submodules": {}
+  },
+  {
+    "module": "4. Set Primary Sources",
+    "description": "When multiple connected systems provide overlapping information (e.g., job titles from both Google Workspace and BambooHR), Zluri allows you to define a primary source for each data field. To configure this: Go to the Primary Sources section in the...",
+    "submodules": {}
+  }
+]
