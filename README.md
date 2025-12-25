@@ -30,21 +30,23 @@ Rule-Based Summarization
 Structured JSON Output
 
 
-🗂️ Project Structure
+## 📁 Project Structure
 
+```text
 pulse-module-extractor/
 │
 ├── src/
 │   ├── crawler.py        # Crawls documentation pages
-│   ├── parser.py         # Cleans HTML & extracts sections
-│   ├── extractor.py      # Infers modules & submodules
-│   ├── summarizer.py     # Generates descriptions
-│   └── utils.py          # Helper utilities
+│   ├── parser.py         # Cleans HTML and extracts structured sections
+│   ├── extractor.py      # Infers modules and submodules
+│   ├── summarizer.py     # Generates concise descriptions
+│   └── utils.py          # Helper utility functions
 │
 ├── output/               # Generated JSON outputs
+│
 ├── app.py                # Entry point (multi-website execution)
-├── requirements.txt
-└── README.md
+├── requirements.txt      # Project dependencies
+└── README.md             # Project documentation
 
 
 🌐 Supported Documentation Websites (Processed in One Run)
