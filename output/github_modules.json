@@ -77,205 +77,118 @@
       "Authentication documentation": "Keep your account and data secure with features like two-factor authentication, SSH, and commit signature verification.",
       "Getting code suggestions in your IDE with GitHub Copilot": "Use GitHub Copilot to get code suggestions in your editor.",
       "Managing remote repositories": "Learn to work with your local repositories on your computer and remote repositories hosted on GitHub.",
+      "Viewing your usage of metered products and licenses": "Explore your use of features that are billed by usage and see how they contribute to your bill.",
+      "GitHub Actions billing": "Learn how usage of GitHub Actions is measured against your free allowance and how to pay for additional use.",
+      "GitHub Copilot licenses": "Learn how licenses for Copilot work, including usage measurement and managing your budget.",
+      "GitHub Codespaces billing": "Learn about the costs for using GitHub Codespaces, and the monthly usage quotas included with GitHub personal accounts.",
+      "About custom domains and GitHub Pages": "GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.",
+      "About GitHub Pages and Jekyll": "Jekyll is a static site generator with built-in support for GitHub Pages.",
+      "Troubleshooting custom domains and GitHub Pages": "You can check for common errors to resolve issues with custom domains or HTTPS for your GitHub Pages site.",
+      "Securing your GitHub Pages site with HTTPS": "HTTPS adds a layer of encryption that prevents others from snooping on or tampering with traffic to your site. You can enforce HTTPS for your GitHub Pages site to transparently redirect all HTTP requests to HTTPS.",
       "About GitHub Classroom": "Teachers and school administrators can use GitHub Classroom to create virtual classrooms, make and edit assignments, automatically grade assignment submissions, and more.",
       "About GitHub Education for students": "GitHub Education offers students real-world experience with free access to various developer tools from GitHub's partners.",
       "About GitHub Education for teachers": "GitHub Education offers teachers a central place to access tools and resources for working more effectively inside and outside of the classroom.",
       "GitHub Desktop documentation": "With GitHub Desktop, you can interact with GitHub using a GUI instead of the command line or a web browser. You can use GitHub Desktop to complete most Git commands from your desktop, such as pushing to, pulling from, and cloning remote...",
-      "Working with the npm registry": "You can configure npm to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in an npm project.",
-      "Learn GitHub Packages": "You can find out more about using packages in GitHub, including viewing and installing existing packages, publishing new packages to GitHub Packages, and, in special circumstances, deleting packages.",
-      "Working with the Apache Maven registry": "You can configure Apache Maven to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in a Java project.",
-      "About GitHub Code Search": "You can search, navigate and understand code across GitHub with code search.",
-      "Understanding the search syntax": "When searching GitHub, you can construct queries that match specific numbers and words.",
-      "Searching users": "You can search for users on GitHub and narrow the results using these user search qualifiers in any combination.",
-      "Finding files on GitHub": "You can search for a file in a repository using the file finder. To search for a file in multiple repositories on GitHub, use the path code search qualifier.",
+      "About issues": "Learn how you can use GitHub Issues to track ideas, feedback, tasks, or bugs.",
+      "About Projects": "Projects is an adaptable, flexible tool for planning and tracking work on GitHub.",
+      "Creating a project": "Learn how to create an organization or user project.",
+      "About issue and pull request templates": "With issue and pull request templates, you can customize and standardize the information you'd like contributors to include when they open issues and pull requests in your repository.",
       "About protected branches": "You can protect important branches by setting branch protection rules, which define whether collaborators can delete or force push to the branch and set requirements for any pushes to the branch, such as passing status checks or a linear commit...",
       "About releases": "You can create a release to package software, along with release notes and links to binary files, for other people to use.",
       "About the repository README file": "You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.",
       "About code owners": "You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.",
-      "Creating a pull request template for your repository": "When you add a pull request template to your repository, project contributors will automatically see the template's contents in the pull request body.",
-      "Reporting abuse or spam": "You can report behavior and content that violates community guidelines and terms.",
-      "Adding a license to a repository": "You can include an open source license in your repository to make it easier for other people to contribute.",
-      "Configuring issue templates for your repository": "You can customize the templates that are available for contributors to use when they open new issues in your repository.",
-      "About custom domains and GitHub Pages": "GitHub Pages supports using custom domains, or changing the root of your site's URL from the default, like octocat.github.io, to any domain you own.",
-      "About GitHub Pages and Jekyll": "Jekyll is a static site generator with built-in support for GitHub Pages.",
-      "Troubleshooting custom domains and GitHub Pages": "You can check for common errors to resolve issues with custom domains or HTTPS for your GitHub Pages site.",
-      "Securing your GitHub Pages site with HTTPS": "HTTPS adds a layer of encryption that prevents others from snooping on or tampering with traffic to your site. You can enforce HTTPS for your GitHub Pages site to transparently redirect all HTTP requests to HTTPS."
+      "Working with the npm registry": "You can configure npm to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in an npm project.",
+      "Learn GitHub Packages": "You can find out more about using packages in GitHub, including viewing and installing existing packages, publishing new packages to GitHub Packages, and, in special circumstances, deleting packages.",
+      "Working with the Apache Maven registry": "You can configure Apache Maven to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in a Java project."
     }
   },
   {
     "module": "Start here",
-    "description": "Apply to GitHub Education as a student Unlock tools and resources for your educational journey. Apply to GitHub Education as a teacher If you're a teacher, you can apply to join GitHub Education and receive access to the resources and benefits of...",
+    "description": "Introduction to billing and licensing Learn about the billing platform's key functionalities, and how they can help you manage your spending more effectively. How GitHub billing works Learn what you'll be charged for, when charges occur, and how to...",
     "submodules": {
+      "Introduction to billing and licensing": "Learn about the billing platform's key functionalities, and how they can help you manage your spending more effectively.",
+      "How GitHub billing works": "Learn what you'll be charged for, when charges occur, and how to track your usage on GitHub to avoid billing surprises.",
+      "Managing your payment and billing information": "Learn how to view and manage your payment information and billing contacts using the new billing platform.",
+      "Setting up budgets to control spending on metered products": "Learn how to set budgets and track when metered usage is nearing or above a budget threshold to prevent overspending.",
+      "Configuring a publishing source for your GitHub Pages site": "You can configure your GitHub Pages site to publish when changes are pushed to a specific branch, or you can write a GitHub Actions workflow to publish your site.",
+      "Creating a GitHub Pages site": "You can create a GitHub Pages site in a new or existing repository.",
+      "Managing a custom domain for your GitHub Pages site": "You can set up or update certain DNS records and your repository settings to point the default domain for your GitHub Pages site to a custom domain.",
       "Apply to GitHub Education as a student": "Unlock tools and resources for your educational journey.",
       "Apply to GitHub Education as a teacher": "If you're a teacher, you can apply to join GitHub Education and receive access to the resources and benefits of GitHub Education.",
       "Use GitHub at your educational institution": "Maximize the benefits of using GitHub at your institution for your students, instructors, and IT staff with GitHub Education and our various training programs for students and instructors.",
-      "Learn GitHub Packages": "You can find out more about using packages in GitHub, including viewing and installing existing packages, publishing new packages to GitHub Packages, and, in special circumstances, deleting packages.",
-      "Managing GitHub packages using GitHub Actions workflows": "You can safely publish and consume packages by building custom workflows that can also build, test, and deploy your code.",
-      "Installing a package": "You can install a package from GitHub Packages and use the package as a dependency in your own project.",
-      "Searching issues and pull requests": "You can search for issues and pull requests on GitHub and narrow the results using these search qualifiers in any combination.",
-      "Understanding GitHub Code Search syntax": "You can build search queries for the results you want with specialized code qualifiers, regular expressions, and boolean operations.",
-      "Searching for repositories": "You can search for repositories on GitHub and narrow the results using these repository search qualifiers in any combination.",
-      "Searching commits": "You can search for commits on GitHub and narrow the results using these commit search qualifiers in any combination.",
+      "Best practices for GitHub Docs": "Follow these best practices to create documentation that's user-friendly and easy to understand.",
+      "Style guide": "Follow this guide to make sure GitHub's documentation stays consistent and follows clear patterns that our readers can understand.",
+      "About the content model": "The content model describes the structure and types of content that we publish.",
+      "About contributing to GitHub Docs": "You can contribute to GitHub Docs content in several ways.",
+      "Creating an issue": "Issues can be created in a variety of ways, so you can choose the most convenient method for your workflow.",
+      "Quickstart for Projects": "Experience the speed, flexibility, and customization of Projects by creating a project in this interactive guide.",
+      "Best practices for Projects": "Learn tips for managing your projects.",
+      "Configuring issue templates for your repository": "You can customize the templates that are available for contributors to use when they open new issues in your repository.",
       "Cloning a repository": "When you create a repository on GitHub, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.",
       "Restoring a deleted repository": "You can restore some deleted repositories to recover their contents.",
       "Adding a file to a repository": "You can upload and commit an existing file to a repository on GitHub or by using the command line.",
       "Licensing a repository": "Public repositories on GitHub are often used to share open source software. For your repository to truly be open source, you'll need to license it so that others are free to use, change, and distribute the software.",
-      "Creating GitHub CLI extensions": "Learn how to share new GitHub CLI commands with other users by creating custom extensions for GitHub CLI.",
-      "Using GitHub CLI extensions": "Learn how to use custom extensions written by other GitHub CLI users.",
-      "Using GitHub CLI in workflows": "You can script with GitHub CLI in GitHub Actions workflows.",
-      "Using GitHub Codespaces with GitHub CLI": "You can work with GitHub Codespaces directly from your command line by using gh, the GitHub command line interface.",
-      "Setting guidelines for repository contributors": "You can create guidelines to communicate how people should contribute to your project.",
-      "Adding a code of conduct to your project": "Adopt a code of conduct to define community standards, signal a welcoming and inclusive project, and outline procedures for handling abuse.",
-      "Managing disruptive comments": "You can hide, edit, or delete comments on issues, pull requests, and commits.",
-      "Configuring a publishing source for your GitHub Pages site": "You can configure your GitHub Pages site to publish when changes are pushed to a specific branch, or you can write a GitHub Actions workflow to publish your site.",
-      "Creating a GitHub Pages site": "You can create a GitHub Pages site in a new or existing repository.",
-      "Managing a custom domain for your GitHub Pages site": "You can set up or update certain DNS records and your repository settings to point the default domain for your GitHub Pages site to a custom domain.",
-      "Enabling or disabling GitHub Codespaces for your organization": "You can control which users can use GitHub Codespaces in your organization's private repositories.",
-      "Understanding the codespace lifecycle": "Learn how to develop in a GitHub Codespaces environment, and maintain your data throughout the entire codespace lifecycle.",
-      "Introduction to dev containers": "When you work in a codespace, the environment you are working in is created using a development container, or dev container, hosted on a virtual machine.",
-      "Managing access to other repositories within your codespace": "You can manage the repositories that GitHub Codespaces can access."
-    }
-  },
-  {
-    "module": "Guides",
-    "description": "Creating an account on GitHub Create a personal account to get started with GitHub. Git and GitHub learning resources There are a lot of helpful Git and GitHub resources available.",
-    "submodules": {
-      "Creating an account on GitHub": "Create a personal account to get started with GitHub.",
-      "Git and GitHub learning resources": "There are a lot of helpful Git and GitHub resources available.",
-      "Working with the Container registry": "You can store and manage Docker and OCI images in the Container registry.",
-      "Working with the npm registry": "You can configure npm to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in an npm project.",
-      "Working with the RubyGems registry": "You can configure RubyGems to publish a package to GitHub Packages and to use packages stored on GitHub Packages as dependencies in a Ruby project with Bundler.",
-      "Searching in forks": "By default, forks are not shown in search results. You can choose to include them in repository searches, and in code searches if they meet certain criteria.",
-      "Searching topics": "You can search for topics associated with repositories on GitHub.",
-      "Searching for packages": "You can search for packages on GitHub and narrow the results using search qualifiers.",
-      "Deleting a repository": "You can delete any repository or fork if you're either an organization owner or have admin permissions for the repository or fork. Deleting a forked repository does not delete the upstream repository.",
-      "Managing a branch protection rule": "You can create a branch protection rule to enforce certain workflows for one or more branches, such as requiring an approving review or passing status checks for all pull requests merged into the protected branch.",
-      "Setting repository visibility": "You can choose who can view your repository.",
-      "Editing wiki content": "You can add images and links to content in your wiki, and use some supported MediaWiki formats.",
-      "Blocking a user from your personal account": "You can block a user to deny them access to your activity and repositories, and to prevent them from sending you notifications.",
-      "Blocking a user from your organization": "Organization owners and moderators can block anyone who is not a member of the organization from collaborating on the organization's repositories.",
-      "Creating a custom 404 page for your GitHub Pages site": "You can display a custom 404 error page when people try to access nonexistent pages on your site.",
-      "Adding a theme to your GitHub Pages site using Jekyll": "You can personalize your Jekyll site by adding and customizing a theme.",
-      "Troubleshooting Jekyll build errors for GitHub Pages sites": "You can use Jekyll build error messages to troubleshoot problems with your GitHub Pages site.",
-      "Deep dive into GitHub Codespaces": "Explore more detail about how GitHub Codespaces work.",
-      "Creating a codespace for a repository": "You can create a codespace for a branch in a repository to develop online.",
-      "Creating a codespace from a template": "If you're starting a new project, you can create a codespace from a blank template or choose a template specially designed for the type of work you want to do.",
-      "Opening an existing codespace": "You can reopen a codespace that you have closed or stopped and return to your work."
-    }
-  },
-  {
-    "module": "All GitHub Education docs",
-    "description": "",
-    "submodules": {
-      "About GitHub Education": "GitHub Education for students • 5 articles GitHub Education for teachers • 3 articles Use GitHub at your educational institution • 3 articles",
-      "Contribute with GitHub Community Exchange": "Getting started with GitHub Community Exchange Submitting your repository to GitHub Community Exchange Managing your submissions to GitHub Community Exchange",
-      "Manage coursework with GitHub Classroom": "Get started with GitHub Classroom • 2 articles Teach with GitHub Classroom • 15 articles Integrate GitHub Classroom with an IDE • 6 articles Learn with GitHub Classroom • 2 articles"
-    }
-  },
-  {
-    "module": "All GitHub Packages docs",
-    "description": "",
-    "submodules": {
-      "Learn GitHub Packages": "Introduction to GitHub Packages About permissions for GitHub Packages Configuring a package's access control and visibility Connecting a repository to a package Publishing a package Viewing packages Installing a package Deleting and restoring a...",
-      "Working with a GitHub Packages registry": "Working with the Container registry Working with the Docker registry Working with the RubyGems registry Working with the npm registry Working with the Apache Maven registry Working with the Gradle registry Working with the NuGet registry Migrating...",
-      "Managing GitHub packages using GitHub Actions workflows": "Publishing and installing a package with GitHub Actions Example workflows for publishing a package About GitHub Packages and GitHub Actions"
-    }
-  },
-  {
-    "module": "All Search on GitHub docs",
-    "description": "",
-    "submodules": {
-      "Getting started with searching on GitHub": "About searching on GitHub Understanding the search syntax Troubleshooting search queries Sorting search results",
-      "Searching on GitHub": "Finding files on GitHub Searching for repositories Searching topics Searching code (legacy) Searching commits Searching issues and pull requests Searching discussions Searching GitHub Marketplace Searching GitHub Models Searching users Searching for...",
-      "GitHub Code Search": "About GitHub Code Search Using GitHub Code Search Understanding GitHub Code Search syntax"
+      "Learn GitHub Packages": "You can find out more about using packages in GitHub, including viewing and installing existing packages, publishing new packages to GitHub Packages, and, in special circumstances, deleting packages.",
+      "Managing GitHub packages using GitHub Actions workflows": "You can safely publish and consume packages by building custom workflows that can also build, test, and deploy your code.",
+      "Installing a package": "You can install a package from GitHub Packages and use the package as a dependency in your own project."
     }
   },
   {
     "module": "What's new",
-    "description": "New Organization Repositories List Feature Preview December 06 Organization Archiving public beta June 15 View commit history across file renames and moves June 06",
+    "description": "Improved enterprise license consumption reporting for outside collaborators now generally available November 17 Billing date standardized to the first of the month for self-serve credit card metered Enterprise customers now generally available...",
     "submodules": {}
   },
   {
-    "module": "All Repositories docs",
-    "description": "",
+    "module": "Guides",
+    "description": "Upgrading your account's plan You can upgrade the plan for a personal account or organization on GitHub at any time. Impact of changing your plan on billing Learn how upgrading or downgrading your plan is reflected in billing.",
     "submodules": {
-      "Creating and managing repositories": "About repositories Best practices for repositories Quickstart for repositories Repository limits Creating a new repository Personal repository access and collaboration Creating a repository from a template Creating a template repository Creating an...",
-      "Managing your repository’s settings and features": "Managing access to your personal repositories • 5 articles Customizing your repository • 8 articles Enabling features for your repository • 5 articles Managing repository settings • 12 articles",
-      "Configuring branches and merges in your repository": "Managing branches in your repository • 4 articles Configuring pull request merges • 8 articles Managing protected branches • 2 articles Managing rulesets for a repository • 5 articles",
-      "Working with files": "Managing files • 7 articles Using files • 5 articles Managing large files • 8 articles",
-      "Releasing projects on GitHub": "About releases Managing releases in a repository Viewing your repository's releases and tags Searching a repository's releases Linking to releases Comparing releases Automatically generated release notes Automation for release forms with query...",
-      "Viewing activity and data for your repository": "Viewing deployment activity for your repository About repository graphs Using Pulse to view a summary of repository activity Viewing traffic to a repository Viewing a project's contributors Analyzing changes to a repository's content Understanding...",
-      "Archiving a GitHub repository": "Archiving repositories About archiving content and data on GitHub Referencing and citing content Backing up a repository"
+      "Upgrading your account's plan": "You can upgrade the plan for a personal account or organization on GitHub at any time.",
+      "Impact of changing your plan on billing": "Learn how upgrading or downgrading your plan is reflected in billing.",
+      "Creating a custom 404 page for your GitHub Pages site": "You can display a custom 404 error page when people try to access nonexistent pages on your site.",
+      "Adding a theme to your GitHub Pages site using Jekyll": "You can personalize your Jekyll site by adding and customizing a theme.",
+      "Troubleshooting Jekyll build errors for GitHub Pages sites": "You can use Jekyll build error messages to troubleshoot problems with your GitHub Pages site.",
+      "Creating an account on GitHub": "Create a personal account to get started with GitHub.",
+      "Git and GitHub learning resources": "There are a lot of helpful Git and GitHub resources available.",
+      "Changing the layout of a view": "You can view your project as a high-density table, as a kanban board, or as a timeline-style roadmap.",
+      "Linking a pull request to an issue": "You can link a pull request or branch to an issue to show that a fix is in progress and to automatically close the issue when the pull request or branch is merged.",
+      "Automating Projects using Actions": "You can use GitHub Actions to automate your projects.",
+      "Deleting a repository": "You can delete any repository or fork if you're either an organization owner or have admin permissions for the repository or fork. Deleting a forked repository does not delete the upstream repository.",
+      "Managing a branch protection rule": "You can create a branch protection rule to enforce certain workflows for one or more branches, such as requiring an approving review or passing status checks for all pull requests merged into the protected branch.",
+      "Setting repository visibility": "You can choose who can view your repository.",
+      "Working with the Container registry": "You can store and manage Docker and OCI images in the Container registry.",
+      "Working with the npm registry": "You can configure npm to publish packages to GitHub Packages and to use packages stored on GitHub Packages as dependencies in an npm project.",
+      "Working with the RubyGems registry": "You can configure RubyGems to publish a package to GitHub Packages and to use packages stored on GitHub Packages as dependencies in a Ruby project with Bundler."
     }
   },
   {
-    "module": "GitHub Copilot Chat Cookbook",
-    "description": "Find examples of prompts to use with GitHub Copilot Chat.",
+    "module": "All Billing and payments docs",
+    "description": "",
+    "submodules": {
+      "Get started with billing": "How GitHub billing works Introduction to billing and licensing Billing manager onboarding",
+      "Concepts for GitHub billing": "Billing cycles Budgets and alerts Cost centers Azure subscription payments Impact of changing your plan on billing Discounted plans for GitHub accounts Enterprise billing • 5 articles Product billing • 10 articles Payments to third-parties using...",
+      "How-tos for billing": "Setting up and managing payment • 6 articles Managing your plan and GitHub licenses • 5 articles View and manage paid use of GitHub products • 5 articles Making payments to third-parties through GitHub • 7 articles Managing GitHub for a client • 4...",
+      "Reference for billing": "Actions runner pricing Billing through Azure subscriptions Azure subscription reference Billing reports reference Roles for the billing platform Cost center allocation for different products Costs and multipliers for using GitHub Models directly...",
+      "Tutorials for billing": "Automating usage reporting with the REST API Setting up budgets to control spending on metered products Controlling and tracking costs at scale Estimating spending Gathering insights on your spending"
+    }
+  },
+  {
+    "module": "GitHub Copilot documentation",
+    "description": "You can use GitHub Copilot to enhance your productivity and assist as you work on code.",
     "submodules": {}
   },
   {
-    "module": "Spotlight",
+    "module": "Articles",
     "description": "",
     "submodules": {
-      "Generating unit tests": "",
-      "Improving code readability and maintainability": "",
-      "Debugging invalid JSON": ""
-    }
-  },
-  {
-    "module": "Explore 33 examples",
-    "description": "Creating templates Copilot Chat can help you create templates to streamline your workflow and ensure consistency across your projects. Communicate effectively Author and optimize with Copilot Simple Extracting information Copilot Chat in GitHub can...",
-    "submodules": {
-      "Creating templates": "Communicate effectively Author and optimize with Copilot Simple",
-      "Extracting information": "Communicate effectively Author and optimize with Copilot Simple",
-      "Synthesizing research": "Communicate effectively Author and optimize with Copilot Simple",
-      "Creating diagrams": "Communicate effectively Visualize data Simple",
-      "Generating tables": "Communicate effectively Author and optimize with Copilot Simple",
-      "Debugging invalid JSON": "Debugging code Author and optimize with Copilot Intermediate",
-      "Handling API rate limits": "Debugging code Author and optimize with Copilot Intermediate",
-      "Exploring potential feature implementations": "Functionality analysis Author and optimize with Copilot Intermediate",
-      "Analyzing and incorporating user feedback": "Functionality analysis Author and optimize with Copilot Intermediate",
-      "Improving code readability and maintainability": "Refactoring code Author and optimize with Copilot Simple",
-      "Fixing lint errors": "Refactoring code Author and optimize with Copilot Intermediate",
-      "Refactoring for performance optimization": "Refactoring code Author and optimize with Copilot Simple",
-      "Refactoring for environmental sustainability": "Refactoring code Simple",
-      "Refactoring to implement a design pattern": "Refactoring code Author and optimize with Copilot Intermediate",
-      "Refactoring data access layers": "Refactoring code Author and optimize with Copilot Advanced",
-      "Decoupling business logic from UI components": "Refactoring code Author and optimize with Copilot Advanced",
-      "Handling cross-cutting concerns": "Refactoring code Author and optimize with Copilot Intermediate",
-      "Simplifying complex inheritance hierarchies": "Refactoring code Author and optimize with Copilot Intermediate",
-      "Fixing database deadlocks or data integrity issues": "Refactoring code Author and optimize with Copilot Advanced",
-      "Translating code to a different programming language": "Refactoring code Author and optimize with Copilot Simple",
-      "Creating issues": "Documenting code Author and optimize with Copilot Simple",
-      "Documenting legacy code": "Documenting code Author and optimize with Copilot Simple",
-      "Explaining legacy code": "Documenting code Author and optimize with Copilot Simple",
-      "Explaining complex algorithms or logic": "Documenting code Author and optimize with Copilot Intermediate",
-      "Syncing documentation with code changes": "Documenting code Author and optimize with Copilot Intermediate",
-      "Writing discussions or blog posts": "Documenting code Author and optimize with Copilot Simple",
-      "Generating unit tests": "Testing code Author and optimize with Copilot Intermediate",
-      "Creating mock objects to abstract layers": "Testing code Author and optimize with Copilot Intermediate",
-      "Creating end-to-end tests for a webpage": "Testing code Author and optimize with Copilot Advanced",
-      "Updating unit tests to match code changes": "Testing code Author and optimize with Copilot Intermediate",
-      "Securing your repository": "Security analysis Author and optimize with Copilot Simple",
-      "Managing dependency updates": "Security analysis Author and optimize with Copilot Simple",
-      "Finding existing vulnerabilities in code": "Security analysis Author and optimize with Copilot Intermediate"
-    }
-  },
-  {
-    "module": "Popular CLI tasks",
-    "description": "Creating a pull request Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a branch, which ensures that the default branch only contains finished and approved work. Creating an issue Issues can...",
-    "submodules": {
-      "Creating a pull request": "Create a pull request to propose and collaborate on changes to a repository. These changes are proposed in a branch, which ensures that the default branch only contains finished and approved work.",
-      "Creating an issue": "Issues can be created in a variety of ways, so you can choose the most convenient method for your workflow.",
-      "Adding a new SSH key to your GitHub account": "To configure your account on GitHub.com to use your new (or existing) SSH key, you'll also need to add the key to your account.",
-      "Quickstart for repositories": "Learn how to create a new repository and commit your first change in 5 minutes."
-    }
-  },
-  {
-    "module": "All GitHub CLI docs",
-    "description": "",
-    "submodules": {
-      "GitHub CLI": "About GitHub CLI GitHub CLI quickstart Using the GitHub CLI across GitHub platforms Creating GitHub CLI extensions Using GitHub CLI extensions GitHub CLI reference"
+      "About billing for GitHub Copilot in organizations and enterprises": "",
+      "About billing for individual GitHub Copilot plans": "",
+      "About Copilot auto model selection": "",
+      "About customizing GitHub Copilot responses": "",
+      "About GitHub Copilot Chat": "",
+      "About GitHub Copilot CLI": "",
+      "About GitHub Copilot code review": "",
+      "About GitHub Copilot coding agent": "",
+      "About GitHub Copilot Spaces": ""
     }
   },
   {
@@ -285,7 +198,7 @@
   },
   {
     "module": "In this article",
-    "description": "",
+    "description": "Thank you for using GitHub! We're happy you're here. Please read this Terms of Service agreement carefully before accessing or using GitHub. Because it is such an important contract between us and our users, we have tried to make it as clear as...",
     "submodules": {}
   },
   {
@@ -312,22 +225,6 @@
     "submodules": {}
   },
   {
-    "module": "Creating and managing repositories",
-    "description": "You can create a repository on GitHub to store and collaborate on your project's files, then manage the repository's name and location. About repositories Best practices for repositories Quickstart for repositories Repository limits Creating a new...",
-    "submodules": {}
-  },
-  {
-    "module": "All Building communities docs",
-    "description": "",
-    "submodules": {
-      "Setting up your project for healthy contributions": "About community management and moderation About community profiles for public repositories Accessing a project's community profile Adding a code of conduct to your project Setting guidelines for repository contributors Adding a license to a...",
-      "Using templates to encourage useful issues and pull requests": "About issue and pull request templates Configuring issue templates for your repository Syntax for issue forms Syntax for GitHub's form schema Creating a pull request template for your repository Common validation errors when creating issue forms",
-      "Moderating comments and conversations": "Managing disruptive comments Locking conversations Limiting interactions in your repository Limiting interactions for your personal account Limiting interactions in your organization Tracking changes in a comment Managing how contributors report...",
-      "Maintaining your safety on GitHub": "Blocking a user from your personal account Viewing users you've blocked from your personal account Unblocking a user from your personal account Blocking a user from your organization Viewing users who are blocked from your organization Unblocking a...",
-      "Documenting your project with wikis": "About wikis Adding or editing wiki pages Creating a footer or sidebar for your wiki Editing wiki content Viewing a wiki's history of changes Changing access permissions for wikis Disabling wikis"
-    }
-  },
-  {
     "module": "All GitHub Pages docs",
     "description": "",
     "submodules": {
@@ -337,44 +234,32 @@
     }
   },
   {
-    "module": "Set up your project",
-    "description": "Setting up a Node.js project for GitHub Codespaces Get started with a Node.js, JavaScript, or TypeScript project in GitHub Codespaces by creating a custom dev container configuration. Setting up a Python project for GitHub Codespaces Get started...",
-    "submodules": {
-      "Setting up a Node.js project for GitHub Codespaces": "Get started with a Node.js, JavaScript, or TypeScript project in GitHub Codespaces by creating a custom dev container configuration.",
-      "Setting up a Python project for GitHub Codespaces": "Get started with a Python project in GitHub Codespaces by creating a custom dev container configuration.",
-      "Setting up a Java project for GitHub Codespaces": "Get started with a Java project in GitHub Codespaces by creating a custom dev container configuration.",
-      "Setting up a C# (.NET) project for GitHub Codespaces": "Get started with a C# (.NET) project in GitHub Codespaces by creating a custom dev container configuration."
-    }
-  },
-  {
-    "module": "All Codespaces docs",
+    "module": "All GitHub Education docs",
     "description": "",
     "submodules": {
-      "Getting started with GitHub Codespaces": "What are GitHub Codespaces? GitHub Codespaces features Understanding the codespace lifecycle Deep dive into GitHub Codespaces",
-      "Developing in a codespace": "Developing in a codespace Creating a codespace for a repository Creating a codespace from a template Deleting a codespace Opening an existing codespace Working collaboratively in a codespace Using source control in your codespace Using GitHub...",
-      "Customizing your codespace": "Renaming a codespace Changing the shell in a codespace Changing the machine type for your codespace",
-      "Setting your user preferences": "Personalizing GitHub Codespaces for your account Setting your default editor for GitHub Codespaces Setting your default region for GitHub Codespaces Setting your timeout period for GitHub Codespaces Configuring automatic deletion of your codespaces...",
-      "Setting up your project for GitHub Codespaces": "Adding a dev container configuration to your repository • 6 articles Configuring dev containers • 4 articles Setting up your repository for GitHub Codespaces • 2 articles",
-      "Prebuilding your codespaces": "About GitHub Codespaces prebuilds Configuring prebuilds Allowing a prebuild to access other repositories Managing prebuilds Testing dev container configuration changes on a prebuild-enabled branch",
-      "Managing your codespaces": "Managing your account-specific secrets for GitHub Codespaces Managing access to other repositories within your codespace Reviewing your security logs for GitHub Codespaces Managing GPG verification for GitHub Codespaces",
-      "Managing GitHub Codespaces for your organization": "Enabling or disabling GitHub Codespaces for your organization Choosing who owns and pays for codespaces in your organization Listing the codespaces in your organization Managing the cost of GitHub Codespaces in your organization Managing development...",
-      "Reference": "Allowing your codespace to access a private registry Using GitHub Copilot in GitHub Codespaces Using the Visual Studio Code Command Palette in GitHub Codespaces Security in GitHub Codespaces Disaster recovery for GitHub Codespaces",
-      "Troubleshooting GitHub Codespaces": "GitHub Codespaces logs Troubleshooting GitHub Codespaces clients Getting the most out of your included usage Exporting changes to a branch Troubleshooting creation and deletion of codespaces Troubleshooting authentication to a repository..."
+      "About GitHub Education": "GitHub Education for students • 5 articles GitHub Education for teachers • 3 articles Use GitHub at your educational institution • 3 articles",
+      "Contribute with GitHub Community Exchange": "Getting started with GitHub Community Exchange Submitting your repository to GitHub Community Exchange Managing your submissions to GitHub Community Exchange",
+      "Manage coursework with GitHub Classroom": "Get started with GitHub Classroom • 2 articles Teach with GitHub Classroom • 15 articles Integrate GitHub Classroom with an IDE • 6 articles Learn with GitHub Classroom • 2 articles"
     }
   },
   {
-    "module": "Keeping secrets secure with secret scanning",
-    "description": "Let GitHub do the hard work of ensuring that tokens, private keys, and other code secrets are not exposed in your repository.",
-    "submodules": {}
-  },
-  {
-    "module": "Who can use this feature?",
-    "description": "Secret scanning is available for the following repository types: Public repositories on GitHub.com Organization-owned repositories on GitHub Team with GitHub Secret Protection enabled Introduction to secret scanning About secret scanning About push...",
-    "submodules": {}
+    "module": "All Contribute to GitHub Docs docs",
+    "description": "",
+    "submodules": {
+      "Writing for GitHub Docs": "Best practices for GitHub Docs About GitHub's documentation philosophy About GitHub's documentation fundamentals Content design principles Writing content to be translated Making content findable in search Versioning documentation Using Markdown and...",
+      "Style guide and content model": "Style guide About the content model Contents of a GitHub Docs article About topics Conceptual content type Referential content type Procedural content type Troubleshooting content type Release note content type Quickstart content type Tutorial...",
+      "Collaborating on GitHub Docs": "About contributing to GitHub Docs Using Git on GitHub Docs Using the TODOCS placeholder to leave notes Using the content linter Label reference",
+      "Setting up your environment to work on GitHub Docs": "Working on GitHub Docs in a codespace Creating a local environment Troubleshooting your environment"
+    }
   },
   {
     "module": "Basic writing and formatting syntax",
     "description": "Create sophisticated formatting for your prose and code on GitHub with simple syntax.",
+    "submodules": {}
+  },
+  {
+    "module": "Who can use this feature?",
+    "description": "Markdown can be used in the GitHub web interface.",
     "submodules": {}
   },
   {
@@ -505,6 +390,236 @@
     "module": "Further reading",
     "description": "GitHub Flavored Markdown Spec About writing and formatting on GitHub Working with advanced formatting Quickstart for writing on GitHub",
     "submodules": {}
+  },
+  {
+    "module": "All GitHub Issues docs",
+    "description": "",
+    "submodules": {
+      "Tracking your work with issues": "Learning about issues • 3 articles Using issues • 12 articles Administering issues • 7 articles",
+      "Planning and tracking with Projects": "Learning about Projects • 3 articles Creating projects • 2 articles Managing items in your project • 4 articles Understanding fields • 9 articles Customizing views in your project • 6 articles Automating your project • 5 articles Viewing insights...",
+      "Using labels and milestones to track work": "Managing labels About milestones Creating and editing milestones for issues and pull requests Associating milestones with issues and pull requests Filtering issues and pull requests by milestone Viewing your milestone's progress"
+    }
+  },
+  {
+    "module": "All Repositories docs",
+    "description": "",
+    "submodules": {
+      "Creating and managing repositories": "About repositories Best practices for repositories Quickstart for repositories Repository limits Creating a new repository Personal repository access and collaboration Creating a repository from a template Creating a template repository Creating an...",
+      "Managing your repository’s settings and features": "Managing access to your personal repositories • 5 articles Customizing your repository • 8 articles Enabling features for your repository • 5 articles Managing repository settings • 12 articles",
+      "Configuring branches and merges in your repository": "Managing branches in your repository • 4 articles Configuring pull request merges • 8 articles Managing protected branches • 2 articles Managing rulesets for a repository • 5 articles",
+      "Working with files": "Managing files • 7 articles Using files • 5 articles Managing large files • 8 articles",
+      "Releasing projects on GitHub": "About releases Managing releases in a repository Viewing your repository's releases and tags Searching a repository's releases Linking to releases Comparing releases Automatically generated release notes Automation for release forms with query...",
+      "Viewing activity and data for your repository": "Viewing deployment activity for your repository About repository graphs Using Pulse to view a summary of repository activity Viewing traffic to a repository Viewing a project's contributors Analyzing changes to a repository's content Understanding...",
+      "Archiving a GitHub repository": "Archiving repositories About archiving content and data on GitHub Referencing and citing content Backing up a repository"
+    }
+  },
+  {
+    "module": "Keeping your supply chain secure with Dependabot",
+    "description": "Monitor vulnerabilities in dependencies used in your project and keep your dependencies up-to-date with Dependabot. Ecosystems supported by Dependabot Dependabot supported ecosystems and repositories Optimizing Java packages for Dependabot updates...",
+    "submodules": {}
+  },
+  {
+    "module": "Site policy documentation",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "GitHub Terms",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Acceptable Use Policies",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Privacy Policies",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Other Site Policies",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Content Removal Policies",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Security Policies",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "GitHub Company Policies",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "GitHub Terms of Service",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Summary",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "The GitHub Terms of Service",
+    "description": "Effective date: November 16, 2020",
+    "submodules": {}
+  },
+  {
+    "module": "A. Definitions",
+    "description": "Short version: We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information. An \"Account\"...",
+    "submodules": {}
+  },
+  {
+    "module": "B. Account Terms",
+    "description": "Short version: Personal Accounts and Organizations have different administrative controls; a human must create your Account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free Account. You alone...",
+    "submodules": {
+      "1. Account Controls": "Users. Subject to these Terms, you retain ultimate administrative control over your Personal Account and the Content within it. Organizations. The \"owner\" of an Organization that was created under these Terms has ultimate administrative control over...",
+      "2. Required Information": "You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more...",
+      "3. Account Requirements": "We have a few simple rules for Personal Accounts on GitHub's Service. You must be a human to create an Account. Accounts registered by \"bots\" or other automated methods are not permitted. We do permit machine accounts: A machine account is an...",
+      "4. Account Security": "You are responsible for keeping your Account secure while you use our Service. We offer tools such as two-factor authentication to help you maintain your Account's security, but the content of your Account and its security are up to you. You are...",
+      "5. Additional Terms": "In some situations, third parties' terms may apply to your use of GitHub. For example, you may be a member of an organization on GitHub with its own terms or license agreements; you may download an application that integrates with GitHub; or you may..."
+    }
+  },
+  {
+    "module": "C. Acceptable Use",
+    "description": "Short version: GitHub hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow the terms of this...",
+    "submodules": {}
+  },
+  {
+    "module": "D. User-Generated Content",
+    "description": "Short version: You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to...",
+    "submodules": {
+      "1. Responsibility for User-Generated Content": "You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the...",
+      "2. GitHub May Remove Content": "We have the right to refuse or remove any User-Generated Content that, in our sole discretion, violates any laws or GitHub terms or policies . User-Generated Content displayed on GitHub Mobile may be subject to mobile app stores' additional terms.",
+      "3. Ownership of Content, Right to Post, and License Grants": "You retain ownership of and responsibility for Your Content. If you're posting anything you did not create yourself or do not own the rights to, you agree that you are responsible for any Content you post; that you will only submit Content that you...",
+      "4. License Grant to Us": "We need the legal right to do things like host Your Content, publish it, and share it. You grant us and our legal successors the right to store, archive, parse, and display Your Content, and make incidental copies, as necessary to provide the...",
+      "5. License Grant to Other Users": "Any User-Generated Content you post publicly, including issues, comments, and contributions to other Users' repositories, may be viewed by others. By setting your repositories to be viewed publicly, you agree to allow others to view and \"fork\" your...",
+      "6. Contributions Under Repository License": "Whenever you add Content to a repository containing notice of a license, you license that Content under the same terms, and you agree that you have the right to license that Content under those terms. If you have a separate agreement to license that...",
+      "7. Moral Rights": "You retain all moral rights to Your Content that you upload, publish, or submit to any part of the Service, including the rights of integrity and attribution. However, you waive these rights and agree not to assert them against us, to enable us to...",
+      "8. Access Reciprocity": "By using automated means to access, collect, or otherwise use (“Access”) any publicly accessible Content from the Service for the purpose of developing or training any commercially available artificial intelligence model, machine learning system, or..."
+    }
+  },
+  {
+    "module": "E. Private Repositories",
+    "description": "Short version: We treat the content of private repositories as confidential, and we only access it as described in our Privacy Statement—for security purposes, to assist the repository owner with a support matter, to maintain the integrity of the...",
+    "submodules": {
+      "1. Control of Private Repositories": "Some Accounts may have private repositories, which allow the User to control access to Content.",
+      "2. Confidentiality of Private Repositories": "GitHub considers the contents of private repositories to be confidential to you. GitHub will protect the contents of private repositories from unauthorized use, access, or disclosure in the same manner that we would use to protect our own...",
+      "3. Access": "GitHub personnel may only access the content of your private repositories in the situations described in our Privacy Statement . You may choose to enable additional access to your private repositories. For example: You may enable various GitHub..."
+    }
+  },
+  {
+    "module": "F. Copyright Infringement and DMCA Policy",
+    "description": "If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy . If you are a copyright owner and you believe that content on GitHub violates your rights, please...",
+    "submodules": {}
+  },
+  {
+    "module": "G. Intellectual Property Notice",
+    "description": "Short version: We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.",
+    "submodules": {
+      "1. GitHub's Rights to Content": "GitHub and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this...",
+      "2. GitHub Trademarks and Logos": "If you’d like to use GitHub’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://github.com/logos .",
+      "3. License to GitHub Policies": "This Agreement is licensed under this Creative Commons Zero license . For details, see our site-policy repository ."
+    }
+  },
+  {
+    "module": "H. API Terms",
+    "description": "Short version: You agree to these Terms of Service, plus this Section H, when using any of GitHub's APIs (Application Provider Interface), including use of the API through a third party product that accesses GitHub. Abuse or excessively frequent...",
+    "submodules": {}
+  },
+  {
+    "module": "I. GitHub Additional Product Terms",
+    "description": "Short version: You need to follow certain specific terms and conditions for GitHub's various features and products, and you agree to the Supplemental Terms and Conditions when you agree to this Agreement. Some Service features may be subject to...",
+    "submodules": {}
+  },
+  {
+    "module": "J. Beta Previews",
+    "description": "Short version: Beta Previews may not be supported or may change at any time. You may receive confidential information through those programs that must remain confidential while the program is private. We'd love your feedback to make our Beta...",
+    "submodules": {
+      "1. Subject to Change": "Beta Previews may not be supported and may be changed at any time without notice. In addition, Beta Previews are not subject to the same security measures and auditing to which the Service has been and is subject. By using a Beta Preview, you use it...",
+      "2. Confidentiality": "As a user of Beta Previews, you may get access to special information that isn’t available to the rest of the world. Due to the sensitive nature of this information, it’s important for us to make sure that you keep that information secret....",
+      "3. Feedback": "We’re always trying to improve of products and services, and your feedback as a Beta Preview user will help us do that. If you choose to give us any ideas, know-how, algorithms, code contributions, suggestions, enhancement requests, recommendations..."
+    }
+  },
+  {
+    "module": "K. Payment",
+    "description": "Short version: You are responsible for any fees associated with your use of GitHub. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.",
+    "submodules": {
+      "1. Pricing": "Our pricing and payment terms are available at github.com/pricing . If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.",
+      "2. Upgrades, Downgrades, and Changes": "We will immediately bill you when you upgrade from the free plan to any paying plan. If you change from a monthly billing plan to a yearly billing plan, GitHub will bill you for a full year at the next monthly billing date. If you upgrade to a...",
+      "3. Billing Schedule; No Refunds": "Payment Based on Plan For monthly or yearly payment plans, the Service is billed in advance on a monthly or yearly basis respectively and is non-refundable. There will be no refunds or credits for partial months of service, downgrade refunds, or...",
+      "4. Authorization": "By agreeing to these Terms, you are giving us permission to charge your on-file credit card, PayPal account, or other approved methods of payment for fees that you authorize for GitHub.",
+      "5. Responsibility for Payment": "You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay GitHub any charge incurred in connection with your use of the Service. If you dispute the matter, contact us through..."
+    }
+  },
+  {
+    "module": "L. Cancellation and Termination",
+    "description": "Short version: You may close your Account at any time. If you do, we'll treat your information responsibly.",
+    "submodules": {
+      "1. Account Cancellation": "It is your responsibility to properly cancel your Account with GitHub. You can cancel your Account at any time by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions...",
+      "2. Upon Cancellation": "We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, we will delete your full profile and the Content of your repositories within 90...",
+      "3. GitHub May Terminate": "GitHub has the right to suspend or terminate your access to all or any part of the Website at any time, with or without cause, with or without notice, effective immediately. GitHub reserves the right to refuse service to anyone for any reason at any...",
+      "4. Survival": "All provisions of this Agreement which, by their nature, should survive termination will survive termination — including, without limitation: ownership provisions, warranty disclaimers, indemnity, and limitations of liability."
+    }
+  },
+  {
+    "module": "M. Communications with GitHub",
+    "description": "Short version: We use email and other electronic means to stay in touch with our users.",
+    "submodules": {
+      "1. Electronic Communication Required": "For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other...",
+      "2. Legal Notice to GitHub Must Be in Writing": "Communications made through email or GitHub Support's messaging system will not constitute legal notice to GitHub or any of its officers, employees, agents or representatives in any situation where notice to GitHub is required by contract or any law...",
+      "3. No Phone Support": "GitHub only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support."
+    }
+  },
+  {
+    "module": "N. Disclaimer of Warranties",
+    "description": "Short version: We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect. GitHub provides the Website and the Service “as is” and “as available,”...",
+    "submodules": {}
+  },
+  {
+    "module": "O. Limitation of Liability",
+    "description": "Short version: We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. You understand and...",
+    "submodules": {}
+  },
+  {
+    "module": "P. Release and Indemnification",
+    "description": "Short version: You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved. If you have a dispute with one or more Users, you agree to release GitHub from any and all...",
+    "submodules": {}
+  },
+  {
+    "module": "Q. Changes to These Terms",
+    "description": "Short version: We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users...",
+    "submodules": {}
+  },
+  {
+    "module": "R. Miscellaneous",
+    "description": "",
+    "submodules": {
+      "1. Governing Law": "Except to the extent applicable law provides otherwise, this Agreement between you and GitHub and any access to or use of the Website or the Service are governed by the federal laws of the United States of America and the laws of the State of...",
+      "2. Non-Assignability": "GitHub may assign or delegate these Terms of Service and/or the GitHub Privacy Statement , in whole or in part, to any person or entity at any time with or without your consent, including the license grant in Section D.4. You may not assign or...",
+      "3. Section Headings and Summaries": "Throughout this Agreement, each section includes titles and brief summaries of the following terms and conditions. These section titles and brief summaries are not legally binding.",
+      "4. Severability, No Waiver, and Survival": "If any part of this Agreement is held invalid or unenforceable, that portion of the Agreement will be construed to reflect the parties’ original intent. The remaining portions will remain in full force and effect. Any failure on the part of GitHub...",
+      "5. Amendments; Complete Agreement": "This Agreement may only be modified by a written amendment signed by an authorized representative of GitHub, or by the posting by GitHub of a revised version in accordance with Section Q. Changes to These Terms . These Terms of Service, together...",
+      "6. Questions": "Questions about the Terms of Service? Contact us through the GitHub Support portal ."
+    }
+  },
+  {
+    "module": "All GitHub Packages docs",
+    "description": "",
+    "submodules": {
+      "Learn GitHub Packages": "Introduction to GitHub Packages About permissions for GitHub Packages Configuring a package's access control and visibility Connecting a repository to a package Publishing a package Viewing packages Installing a package Deleting and restoring a...",
+      "Working with a GitHub Packages registry": "Working with the Container registry Working with the Docker registry Working with the RubyGems registry Working with the npm registry Working with the Apache Maven registry Working with the Gradle registry Working with the NuGet registry Migrating...",
+      "Managing GitHub packages using GitHub Actions workflows": "Publishing and installing a package with GitHub Actions Example workflows for publishing a package About GitHub Packages and GitHub Actions"
+    }
   },
   {
     "module": "Getting code suggestions in your IDE with GitHub Copilot",

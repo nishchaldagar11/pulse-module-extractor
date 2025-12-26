@@ -51,53 +51,48 @@
     "submodules": {}
   },
   {
-    "module": "Enterprise",
-    "description": "The WordPress platform has grown to become the dominant market leader for content management. Discover how today's biggest brands use WordPress, and how WordPress can work for your enterprise.",
+    "module": "Media blocks",
+    "description": "Audio block Cover block File block Gallery block Image block Media & Text block Video block",
     "submodules": {}
   },
   {
-    "module": "Enterprise use cases",
-    "description": "Whether as a primary or secondary content management system (CMS), you'll find WordPress being used by enterprises at scale wherever there's a requirement for flexible, cost-effective, and secure creation and distribution of content. Explore some of...",
-    "submodules": {
-      "Media and publishing": "WordPress powers the sites people visit multiple times every day for news, information, and entertainment.",
-      "E-commerce": "Organizations around the world choose WordPress as their e-commerce solution of choice.",
-      "Content marketing": "WordPress will help you get your brand's story in front of your potential customers quickly and easily.",
-      "Higher education": "Educational institutions use WordPress to power everything, from a departmental blog to an entire university system."
-    }
-  },
-  {
-    "module": "Extensibility",
-    "description": "Enterprise-level extensions for WordPress span a broad range of functionality, from enhanced search and advanced on-page SEO, to AI-driven content augmentation and developer power tools.",
+    "module": "FAQs",
+    "description": "FAQ I make changes and nothing happens FAQ Installation FAQ My site was hacked FAQ Troubleshooting FAQ Work with WordPress",
     "submodules": {}
   },
   {
-    "module": "Security",
-    "description": "WordPress has strict security standards that make it a popular CMS for enterprise companies around the world. While its popularity might make it a target, it has proven itself as a secure platform.",
+    "module": "Blocks",
+    "description": "Block components. No code. Just click and insert content.",
     "submodules": {}
   },
   {
-    "module": "Open source",
-    "description": "WordPress is open source software. This means the source code is made freely available and may be distributed and modified subject to the GPL license.",
+    "module": "Build without limits",
+    "description": "The technology that powers much of the web has never been easier to learn. Blocks allow you to visually interact with any piece of content, with or without code—fueling rich layouts, interactive onboarding, and endless extensibility. As powerful for...",
     "submodules": {}
   },
   {
-    "module": "Get WordPress",
-    "description": "",
-    "submodules": {
-      "Case studies": "Abril (PDF) KFF (PDF) NewsCorp Australia (PDF)",
-      "White paper references": "IDC Report (PDF) WP as a Content Hub (PDF) Personalization (PDF)",
-      "Tutorials": "Drive Digital Commerce Gutenberg for Enterprise Lead a Successful Digital Transformation",
-      "Additional case studies": "Unified WordPress with PMC (PDF) Massive Multisite with SAP News (PDF) .NET to WordPress with ArtsHub (PDF) Drupal to WordPress with Capgemini (PDF) Academic Partnerships (PDF) Revolutionizing Performance and Editorial (PDF) Moving a Pharmacy Leader..."
-    }
-  },
-  {
-    "module": "Media",
-    "description": "Audio Shortcode Edit Media Image size and quality Inserting images into posts and pages (Block Editor) Inserting images into posts and pages (Classic Editor) The WordPress Gallery (Block Editor) The WordPress Gallery (Classic Editor) Use image and...",
+    "module": "WordPress’s secret power",
+    "description": "Blocks are the visual foundation of WordPress, and can be used to create and manage every part of your site. They're also easier than you think. Learn how to edit a block and you learn how to use all of WordPress—without having to write code. For...",
     "submodules": {}
   },
   {
-    "module": "Insert/edit link",
-    "description": "Enter the destination URL Or link to existing content",
+    "module": "Complete creative control",
+    "description": "The WordPress editor is the default way to insert, transform, style, and move your blocks around on a visual canvas thanks to a simple drag-and-drop interface. Hello world (from the editor)",
+    "submodules": {}
+  },
+  {
+    "module": "Create your own",
+    "description": "If you can't find a block that suits your needs, create your own. Creating a block is as simple as building a React component. Use the @wordpress/create-block package to jumpstart your creation.",
+    "submodules": {}
+  },
+  {
+    "module": "See what's new with blocks",
+    "description": "The latest major WordPress version includes updates that can improve the blocks you use and enhance your overall site-building experience. Get more details about what features are available in the current release.",
+    "submodules": {}
+  },
+  {
+    "module": "Only the beginning",
+    "description": "While blocks are powerful on their own, they’re also part of something bigger and can be combined or deployed in various ways. As a unified and open syntax, they're easily understood by editors, browsers, and even AI. So whoever is editing will find...",
     "submodules": {}
   },
   {
@@ -122,7 +117,7 @@
   },
   {
     "module": "Featured sites",
-    "description": "The Atavist Magazine Publication NASA Community The Line Hotels Business Women in Soccer Community AD Dal Pozzo Store PichiAvo Creative Noma Business Landia Creative Caeserstone Store The Noguchi Museum Creative Ubisoft Québec Business Ray Charles...",
+    "description": "The Atavist Magazine Publication NASA Community The Line Hotels Business Women in Soccer Community AD Dal Pozzo Store PichiAvo Creative Noma Business Landia Creative The Noguchi Museum Creative Caeserstone Store Ubisoft Québec Business Ray Charles...",
     "submodules": {
       "The Atavist Magazine": "",
       "NASA": "",
@@ -132,8 +127,8 @@
       "PichiAvo": "",
       "Noma": "",
       "Landia": "",
-      "Caeserstone": "",
       "The Noguchi Museum": "",
+      "Caeserstone": "",
       "Ubisoft Québec": "",
       "Ray Charles Video Museum": "",
       "Art Gallery of Ballarat": "",
@@ -160,68 +155,8 @@
     "submodules": {}
   },
   {
-    "module": "Education",
-    "description": "Empowering the next generation of open web creators",
-    "submodules": {}
-  },
-  {
-    "module": "About",
-    "description": "Creating clear, accessible pathways into the open-source ecosystem. We help learners turn their knowledge into practice, discover their strengths, and understand how their contributions can make a real impact. Through hands-on programs and...",
-    "submodules": {}
-  },
-  {
-    "module": "Our Mission",
-    "description": "We aim to bring WordPress education directly to students on campus, empowering them to discover the platform's potential for their studies and future careers. We strive to bridge the gap between the classroom and the global WordPress community,...",
-    "submodules": {}
-  },
-  {
-    "module": "The Initiatives",
-    "description": "WordPress Education offers three core initiatives, each one provides practical ways for learners to develop skills, connect with the community, and contribute to open-source projects. WordPress Campus Connect The initiative brings WordPress to...",
-    "submodules": {}
-  },
-  {
-    "module": "See what’s happening across initiatives",
-    "description": "Call for Volunteers: Support Our Education Programs December 18, 2025 WordPress Campus Connect is growing, and we need community support to advance key initiatives. We are seeking assistance in the […] WordPress Credits Mentor Huddles – Notes and...",
-    "submodules": {}
-  },
-  {
-    "module": "Join the Movement!",
-    "description": "WordPress Education is powered by people who believe in open learning and collaboration. If you’d like to be part of this growing global community, join the conversation in the #campus-connect and #wpcredits channels in the Make WordPress Slack to...",
-    "submodules": {}
-  },
-  {
-    "module": "About WordPress",
-    "description": "Become a WordPress contributor Learn about WordPress origins and version history Supported Versions What’s the difference between WordPress.org and WordPress.com? WordPress Versions",
-    "submodules": {}
-  },
-  {
-    "module": "Media blocks",
-    "description": "Audio block Cover block File block Gallery block Image block Media & Text block Video block",
-    "submodules": {}
-  },
-  {
-    "module": "Text blocks",
-    "description": "Classic block Code block Details block Footnotes block Heading block List block Math block Paragraph block Preformatted block Pullquote block Quote block Table block Terms Query block Time to Read block Verse block",
-    "submodules": {}
-  },
-  {
-    "module": "Plugins",
-    "description": "Extend your WordPress experience! Browse over 60,000 free plugins. (1,155 total ratings ) The best anti-spam protection to block spam comments and spam in a contact form. The most trusted antispam solution for WordPress and WooCommerce. (2,357 total...",
-    "submodules": {}
-  },
-  {
     "module": "Design blocks",
     "description": "(Deprecated)Button block Accordion block Buttons block Columns block Grid block Group block More block Page Break block Page Jumps Row block Separator block Spacer block Stack block Synced Patterns (Reusable blocks)",
-    "submodules": {}
-  },
-  {
-    "module": "Dashboard",
-    "description": "Administration Screens Appearance Menus Screen Appearance Theme File Editor Screen Appearance Themes Screen Appearance Widgets Screen (Classic Editor) Block-based Widgets Editor Comments screen Customizer Dashboard screen Dashboard Updates screen...",
-    "submodules": {}
-  },
-  {
-    "module": "Publishing",
-    "description": "Comment moderation Comments in WordPress Create a search page Create a static front page Create pages Customize date and time format Customize permalinks How WordPress processes Post Content Pages Add New screen Post Status Comment moderation...",
     "submodules": {}
   },
   {
@@ -250,6 +185,11 @@
     "submodules": {}
   },
   {
+    "module": "Text blocks",
+    "description": "Classic block Code block Details block Footnotes block Heading block List block Math block Paragraph block Preformatted block Pullquote block Classic block Code block Details block Footnotes block Heading block List block Math block Paragraph block...",
+    "submodules": {}
+  },
+  {
     "module": "Theme blocks",
     "description": "Archive Title block Avatar block Categories block Comment Author Name block Comment Content block Comment Date block Comment Edit Link block Comment Reply Link block Comment Template block Comments block Archive Title block Avatar block Categories...",
     "submodules": {}
@@ -257,6 +197,144 @@
   {
     "module": "Widget blocks",
     "description": "Archives block Calendar block Categories List block Custom HTML Latest Comments block Latest Posts block Page List block RSS block Search block Shortcode block Archives block Calendar block Categories List block Custom HTML Latest Comments block...",
+    "submodules": {}
+  },
+  {
+    "module": "Dashboard",
+    "description": "Administration Screens Appearance Menus Screen Appearance Theme File Editor Screen Appearance Themes Screen Appearance Widgets Screen (Classic Editor) Block-based Widgets Editor Comments screen Customizer Dashboard screen Dashboard Updates screen...",
+    "submodules": {}
+  },
+  {
+    "module": "Media",
+    "description": "Audio Shortcode Edit Media Image size and quality Inserting images into posts and pages (Block Editor) Inserting images into posts and pages (Classic Editor) The WordPress Gallery (Block Editor) The WordPress Gallery (Classic Editor) Use image and...",
+    "submodules": {}
+  },
+  {
+    "module": "Publishing",
+    "description": "Comment moderation Comments in WordPress Create a search page Create a static front page Create pages Customize date and time format Customize permalinks How WordPress processes Post Content Pages Add New screen Post Status Comment moderation...",
+    "submodules": {}
+  },
+  {
+    "module": "Photos",
+    "description": "Browse over 31,000 free photos.",
+    "submodules": {}
+  },
+  {
+    "module": "Colors",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Orientation",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Sort",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "",
+    "description": "",
+    "submodules": {}
+  },
+  {
+    "module": "Contribute",
+    "description": "The WordPress Photo Directory is the perfect place to release your photos into the public domain for the benefit of all. Submit your photo .",
+    "submodules": {}
+  },
+  {
+    "module": "License",
+    "description": "All photos are CC0 licensed . No rights are reserved, so you are free to use the photos anywhere, for any purpose, without the need for attribution.",
+    "submodules": {}
+  },
+  {
+    "module": "FAQ",
+    "description": "Learn more about licensing, usage, and adding your photos to the WordPress Photo Directory via Frequently Asked Questions .",
+    "submodules": {}
+  },
+  {
+    "module": "Five for the Future",
+    "description": "Commit to the future of WordPress and the open web. The Five for the Future program allows organizations to contribute time or sponsor resources to support the sustained growth of the WordPress project, ensuring the longevity of WordPress and open...",
+    "submodules": {}
+  },
+  {
+    "module": "Take your seat at the table",
+    "description": "Organizations that participate in Five for the Future play a key role in shaping the future of WordPress. Your contributions can translate that effort into a direct and meaningful impact on your business and beyond. Explore the Five for the Future...",
+    "submodules": {}
+  },
+  {
+    "module": "Gain a strategic advantage",
+    "description": "Sync your business objectives with WordPress’s development to stay current with platform trends, and get early insight into WordPress releases to inform your product decisions.",
+    "submodules": {}
+  },
+  {
+    "module": "Recruit and develop top talent",
+    "description": "Connect with a global network of professionals who already contribute to open source. By sponsoring their contributions, you’ll also provide existing teams with cost-effective, hands-on professional development opportunities.",
+    "submodules": {}
+  },
+  {
+    "module": "Represent your and your client’s needs",
+    "description": "Represent your customers’ or clients’ perspectives within the WordPress community. As you contribute and provide expertise, you’ll gain the recognition to influence key decisions.",
+    "submodules": {}
+  },
+  {
+    "module": "Extend your expertise across WordPress",
+    "description": "The WordPress project is uniquely set up to benefit from contributing teams across all disciplines. Along with development and technical expertise, here are some other focus areas your organization can contribute to: Community building and...",
+    "submodules": {}
+  },
+  {
+    "module": "Shape the future of WordPress",
+    "description": "Become a Five for the Future participant. Contribute as an organization Contribute as an individual",
+    "submodules": {}
+  },
+  {
+    "module": "Driving WordPress Forward",
+    "description": "",
+    "submodules": {
+      "Salesforce empowers WordPress": "Salesforce donates around $8.8 million USD to WordPress.org every year by supporting the Make/WordPress Slack instance, the main platform for real-time communication within the WordPress project. Read more about their contribution.",
+      "Contributor experiences": "See all testimonials Milana Cap Sponsored by XWP Milana Cap has been serving as a co-representative for the Documentation team since 2021. Driven by her advocacy for WordPress education, she has delivered talks and workshops on WP-CLI in more than..."
+    }
+  },
+  {
+    "module": "Get WordPress",
+    "description": "Everything you need to set up your site just the way you want it.",
+    "submodules": {}
+  },
+  {
+    "module": "Download and install it yourself",
+    "description": "For anyone comfortable getting their own hosting and domain.",
+    "submodules": {}
+  },
+  {
+    "module": "Howdy!",
+    "description": "Thanks for downloading WordPress You're an important part of the global community that has used, built, and transformed the platform into what it is today. Find out more ways you can contribute and make an impact on the future of the web. Get...",
+    "submodules": {}
+  },
+  {
+    "module": "Set up with a hosting provider",
+    "description": "For anyone looking for the simplest way to start. Still not sure? Explore the WordPress Playground, a live demo environment right from your browser. Try WordPress ↗ Simple Intuitive Extendable Free Open",
+    "submodules": {}
+  },
+  {
+    "module": "Powerful right out of the box",
+    "description": "WordPress combines simplicity for users and publishers with under-the-hood complexity for developers. Discover the features that come standard with WordPress, and extend what the platform can do with the thousands of plugins available. See all...",
+    "submodules": {}
+  },
+  {
+    "module": "You've got WordPress. What's next?",
+    "description": "If you need help getting started, these resources can help you find your way. WordPress courses ↗ Developer resources ↗ WordPress support ↗ User forums ↗",
+    "submodules": {}
+  },
+  {
+    "module": "Inspiration strikes anywhere",
+    "description": "Create and update content on the go with the WordPress app.",
+    "submodules": {}
+  },
+  {
+    "module": "Installation",
+    "description": "Hosting WordPress Search Engine Optimization Troubleshoot login issues Use automated installation",
     "submodules": {}
   }
 ]
