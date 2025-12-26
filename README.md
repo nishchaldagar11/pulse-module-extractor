@@ -1,3 +1,6 @@
+```text
+
+
 📘 Pulse - Module Extraction AI Agent
 📌 Overview
 
@@ -32,7 +35,6 @@ Structured JSON Output
 
 ## 📁 Project Structure
 
-```text
 pulse-module-extractor/
 │
 ├── src/
